@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/announcement/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-19T00:13:19+07:00</lastmod>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/final/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/general/</loc>
-    <lastmod>2025-04-19T00:13:19+07:00</lastmod>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/my-fifth-post/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/my-fourth-post/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/my-second-post/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/my-third-post/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/news/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/update/</loc>
+    <lastmod>2025-04-19T00:14:10+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/introduction/</loc>
     <lastmod>2025-04-19T00:13:19+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-19T00:13:19+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/my-first-post/</loc>
-    <lastmod>2025-04-19T00:13:19+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-04-19T00:13:19+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-19T00:13:19+07:00</lastmod>
   </url>
 </urlset>
