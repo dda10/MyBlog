@@ -21,11 +21,25 @@
       <description>&lt;p&gt;Congratulations on your fifth post! Keep writing and sharing your journey.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>My Fourth Post</title>
+      <link>http://localhost:1313/post/my-fourth-post/</link>
+      <pubDate>Sat, 19 Apr 2025 00:14:10 +0700</pubDate>
+      <guid>http://localhost:1313/post/my-fourth-post/</guid>
+      <description>&lt;p&gt;This is your fourth post. Your Hugo blog is growing!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My Second Post</title>
       <link>http://localhost:1313/post/my-second-post/</link>
       <pubDate>Sat, 19 Apr 2025 00:14:10 +0700</pubDate>
       <guid>http://localhost:1313/post/my-second-post/</guid>
       <description>&lt;p&gt;This is the second post on your Hugo site. Continue sharing your thoughts and experiences!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/post/my-third-post/</link>
+      <pubDate>Sat, 19 Apr 2025 00:14:10 +0700</pubDate>
+      <guid>http://localhost:1313/post/my-third-post/</guid>
+      <description>&lt;p&gt;Here is the third post. Keep building your blog with more content!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
