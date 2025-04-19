@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://myblog.anhdd-homelab.online/"
 title: My Blog
 pagination:
   pageSize: 5
