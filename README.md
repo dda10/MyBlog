@@ -17,3 +17,4 @@ This is a new Hugo static site project. To get started:
 - `themes/`: Hugo themes
 - `hugo.yml`: Main configuration
 
+[Deploy to Github Pages](https://roadmap.sh/projects/github-actions-deployment-workflow)

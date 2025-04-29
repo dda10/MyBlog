@@ -76,12 +76,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: facebook
+      url: "https://facebook.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/duy-anh-%C4%91%C3%A0o-a496b5167/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/dda10"
 
   analytics:
     google:
